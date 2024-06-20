@@ -2,7 +2,7 @@ import { Link as ScrollLink } from "react-scroll";
 import Logo from "../images/Logo.png"
 export default function HeaderNew() {
     return (
-        <header className="dark:bg-gray-800 text-white fixed w-full bg-white">
+        <header className="dark:bg-gray-800 text-white fixed w-full bg-white rounded-b-lg">
             <nav className="container mx-auto p-4 flex justify-between items-center sticky">
                 <div className={"flex items-center space-x-5"}>
                     <div className="text-xl font-bold"><img src={Logo} width={"50px"} alt={"Logo"}/></div>
@@ -16,25 +16,25 @@ export default function HeaderNew() {
                         </ScrollLink>
                     </li>
                     <li>
-                        <ScrollLink to="about" smooth={true} duration={500}
+                        <ScrollLink to="about" smooth={true} duration={500} offset={-70}
                                     className="cursor-pointer hover:text-gray-400 shadow text-black px-3 py-2 rounded-2xl dark:text-white dark:bg-gray-700">
                             Über uns
                         </ScrollLink>
                     </li>
                     <li>
-                        <ScrollLink to="services" smooth={true} duration={500}
+                        <ScrollLink to="services" smooth={true} duration={500} offset={-70}
                                     className="cursor-pointer hover:text-gray-400 shadow text-black px-3 py-2 rounded-2xl dark:text-white dark:bg-gray-700">
                             Leistungen
                         </ScrollLink>
                     </li>
                     <li>
-                        <ScrollLink to="Test3" smooth={true} duration={500}
+                        <ScrollLink to="meetings" smooth={true} duration={500} offset={-70}
                                     className="cursor-pointer hover:text-gray-400 shadow text-black px-3 py-2 rounded-2xl dark:text-white dark:bg-gray-700">
                             Termine
                         </ScrollLink>
                     </li>
                     <li>
-                        <ScrollLink to="Test3" smooth={true} duration={500}
+                        <ScrollLink to="contact" smooth={true} duration={500} offset={-70}
                                     className="cursor-pointer hover:text-gray-400 shadow text-black px-3 py-2 rounded-2xl dark:text-white dark:bg-gray-700">
                             Kontakt
                         </ScrollLink>
