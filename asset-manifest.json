@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dr-kaestle/static/css/main.0f651d8b.css",
+    "main.js": "/dr-kaestle/static/js/main.0af50e2e.js",
+    "static/js/453.ab836d12.chunk.js": "/dr-kaestle/static/js/453.ab836d12.chunk.js",
+    "static/media/Wangen_Hero.jpg": "/dr-kaestle/static/media/Wangen_Hero.cdb4a3430a364603e7a7.jpg",
+    "static/media/Logo.png": "/dr-kaestle/static/media/Logo.5d6d0c3f8524dadaa851.png",
+    "index.html": "/dr-kaestle/index.html",
+    "main.0f651d8b.css.map": "/dr-kaestle/static/css/main.0f651d8b.css.map",
+    "main.0af50e2e.js.map": "/dr-kaestle/static/js/main.0af50e2e.js.map",
+    "453.ab836d12.chunk.js.map": "/dr-kaestle/static/js/453.ab836d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f651d8b.css",
+    "static/js/main.0af50e2e.js"
+  ]
+}
