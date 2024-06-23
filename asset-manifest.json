@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f651d8b.css",
-    "main.js": "/static/js/main.0eabdde7.js",
+    "main.css": "/static/css/main.547f83fe.css",
+    "main.js": "/static/js/main.7cccc5a2.js",
     "static/js/453.ab836d12.chunk.js": "/static/js/453.ab836d12.chunk.js",
     "static/media/Wangen_Hero.jpg": "/static/media/Wangen_Hero.cdb4a3430a364603e7a7.jpg",
     "static/media/Logo.png": "/static/media/Logo.5d6d0c3f8524dadaa851.png",
     "index.html": "/index.html",
-    "main.0f651d8b.css.map": "/static/css/main.0f651d8b.css.map",
-    "main.0eabdde7.js.map": "/static/js/main.0eabdde7.js.map",
+    "main.547f83fe.css.map": "/static/css/main.547f83fe.css.map",
+    "main.7cccc5a2.js.map": "/static/js/main.7cccc5a2.js.map",
     "453.ab836d12.chunk.js.map": "/static/js/453.ab836d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f651d8b.css",
-    "static/js/main.0eabdde7.js"
+    "static/css/main.547f83fe.css",
+    "static/js/main.7cccc5a2.js"
   ]
 }
