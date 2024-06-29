@@ -5,6 +5,7 @@ import Contact from "./components/contact";
 import Services from "./components/services";
 import Meetings from "./components/Meetings";
 import Layout from "./components/Layout";
+import ErichTest from "./components/erichtest";
 
 export default function App() {
   return (
@@ -14,7 +15,6 @@ export default function App() {
                 <About/>
                 <Services/>
                 <Meetings/>
-                <Contact/>
                 <Footer/>
             </Layout>
       </div>
