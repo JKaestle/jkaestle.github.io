@@ -1,6 +1,6 @@
 import { Link as ScrollLink } from "react-scroll";
 import { useState } from "react";
-import Logo from "../images/Logo.png";
+import Logo from "../../images/Logo.png";
 
 export default function HeaderNew() {
     const [isOpen, setIsOpen] = useState(false);
