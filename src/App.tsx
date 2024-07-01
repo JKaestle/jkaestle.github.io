@@ -1,11 +1,10 @@
 import Footer from "./components/footer";
 import Hero from "./components/hero";
 import About from "./components/about";
-import Contact from "./components/contact";
 import Services from "./components/services";
 import Meetings from "./components/Meetings";
 import Layout from "./components/Layout";
-import ErichTest from "./components/erichtest";
+import History from "./components/history";
 
 export default function App() {
   return (
@@ -13,6 +12,7 @@ export default function App() {
             <Layout>
                 <Hero/>
                 <About/>
+                <History/>
                 <Services/>
                 <Meetings/>
                 <Footer/>
