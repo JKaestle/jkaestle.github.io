@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e7370ef.css",
-    "main.js": "/static/js/main.ab296ef5.js",
-    "static/js/453.ab836d12.chunk.js": "/static/js/453.ab836d12.chunk.js",
+    "main.css": "/static/css/main.a954ec84.css",
+    "main.js": "/static/js/main.cf64f89a.js",
+    "static/js/453.e326df49.chunk.js": "/static/js/453.e326df49.chunk.js",
     "static/media/Wangen_Hero.jpg": "/static/media/Wangen_Hero.cdb4a3430a364603e7a7.jpg",
     "static/media/johanneskaestle.png": "/static/media/johanneskaestle.342fd4ab4e2134dd70bd.png",
     "static/media/Logo.png": "/static/media/Logo.5d6d0c3f8524dadaa851.png",
     "index.html": "/index.html",
-    "main.0e7370ef.css.map": "/static/css/main.0e7370ef.css.map",
-    "main.ab296ef5.js.map": "/static/js/main.ab296ef5.js.map",
-    "453.ab836d12.chunk.js.map": "/static/js/453.ab836d12.chunk.js.map"
+    "main.a954ec84.css.map": "/static/css/main.a954ec84.css.map",
+    "main.cf64f89a.js.map": "/static/js/main.cf64f89a.js.map",
+    "453.e326df49.chunk.js.map": "/static/js/453.e326df49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7370ef.css",
-    "static/js/main.ab296ef5.js"
+    "static/css/main.a954ec84.css",
+    "static/js/main.cf64f89a.js"
   ]
 }
